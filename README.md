@@ -1,4 +1,9 @@
 # Dotfiles
 
 -i3  
--alacritty
+-alacritty  
+-neofetch
+-nvim  
+-ranger  
+-picom  
+-starship  
