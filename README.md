@@ -2,7 +2,7 @@
 
 -i3  
 -alacritty  
--neofetch
+-neofetch  
 -nvim  
 -ranger  
 -picom  
