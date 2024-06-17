@@ -1,4 +1,4 @@
 # Dotfiles
 
--i3
+-i3  
 -alacritty
