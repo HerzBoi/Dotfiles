@@ -17,7 +17,7 @@ font pango:monospace 8
 
 
 ##Picom
-exec picom -b -c ~/.config/picom/picom.conf
+exec picom -b --config ~/.config/picom/picom.conf
 
 ##wallpaper
 exec feh --bg-scale ~/wallpaper/cat_skull.png
