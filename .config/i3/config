@@ -20,7 +20,7 @@ font pango:monospace 8
 exec picom -b -c ~/.config/picom/picom.conf
 
 ##wallpaper
-exec feh --bg-scale ~/Downloads/cat_skull.png
+exec feh --bg-scale ~/wallpaper/cat_skull.png
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
