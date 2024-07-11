@@ -29,3 +29,6 @@ crust = "#11111b"
 #Hides package names, becomes really annoying
 [package]
 disabled = true
+
+[java]
+disabled = true
