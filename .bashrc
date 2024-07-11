@@ -425,7 +425,7 @@ alias personal='cp -Rf /personal/* ~'
 
 ##Personal aliases
 
-
+alias minecraft='sh ~/Documents/auto-scripts/minecraft.sh'
 
 
 
@@ -433,20 +433,4 @@ alias personal='cp -Rf /personal/* ~'
 
 eval "$(starship init bash)"
 
-# reporting tools - install when not installed
-#fastfetch
-#neofetch
-#screenfetch
-#alsi
-#paleofetch
-#fetch
-#hfetch
-#sfetch
-#ufetch
-#ufetch-arco
-#pfetch
-#sysinfo
-#sysinfo-retro
-#cpufetch
-#colorscript random
-#hyfetch
+
