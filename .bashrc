@@ -426,7 +426,7 @@ alias personal='cp -Rf /personal/* ~'
 ##Personal aliases
 
 alias minecraft='sh ~/Documents/auto-scripts/minecraft.sh'
-
+alias gitty='sh ~/Documents/auto-scripts/git-push.sh'
 
 
 [[ -f ~/.bashrc-personal ]] && . ~/.bashrc-personal
