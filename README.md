@@ -1,7 +1,7 @@
 # Dotfiles
 
 -i3  
--alacritty / kitty 
+-alacritty / kitty   
 -neofetch  
 -nvim  
 -ranger  
