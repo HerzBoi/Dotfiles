@@ -1,9 +1,10 @@
 # Dotfiles
 
--i3  
--alacritty / kitty   
--neofetch  
--nvim  
--ranger  
--picom  
--starship  
+- i3    
+- alacritty [old and not cool]   
+- kitty   
+- neofetch  
+- nvim  
+- ranger  
+- picom  
+- starship  
