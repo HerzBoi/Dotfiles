@@ -211,4 +211,6 @@ gaps inner 10
 #border stuff
 default_border pixel 5
 
+# client.focused          #89b4fa #285577 #FFFFFF #2E9EF4   #285577
 
+client.background         #89b4fa
