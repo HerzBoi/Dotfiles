@@ -32,3 +32,6 @@ disabled = true
 
 [java]
 disabled = true
+
+[python]
+disabled = true

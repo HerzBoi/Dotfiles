@@ -209,8 +209,9 @@ gaps inner 10
 
 
 #border stuff
-default_border pixel 5
+default_border pixel 0
 
-# client.focused          #89b4fa #285577 #FFFFFF #2E9EF4   #285577
+# client.focused          #ff0000 #285577 #FFFFFF #2E9EF4 #285577
+# client.unfocused        #ff0000 #285577 #ffffff #ffffff #ffffff
 
 client.background         #89b4fa
